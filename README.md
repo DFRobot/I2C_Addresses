@@ -23,15 +23,19 @@
 - **0x11**
   - [**SEN0304**(Gravity: URM09 Ultrasonic Sensor (I²C))](https://www.dfrobot.com/product-1832.html)
 - **0x12**
+  - [**SEN0352**(Fermion: URM13 Ultrasonic Sensor (15-900cm))](https://www.dfrobot.com/product-2161.html)
 - **0x13**
 - **0x14**
 - **0x15**
 - **0x16**
+  - [**TEL0126**(Gravity: WiFi IoT Module)](https://www.dfrobot.com/product-2180.html)
 - **0x17**
 - **0x18**
   - [**SEN0224**(Gravity: I2C Triple Axis Accelerometer - LIS2DH (±16g))](https://www.dfrobot.com/product-1573.html)
 - **0x19**
+  - [**SEN0460**(Gravity: PM2.5 Air Quality Sensor)](https://www.dfrobot.com/product-2439.html)
 - **0x1A**
+  - [**SEN0486**(Gravity: Ring 2D QR Code Scanner)](https://www.dfrobot.com/product-2485.html)
 - **0x1B**
 - **0x1C**
 - **0x1D**

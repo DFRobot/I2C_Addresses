@@ -23,15 +23,19 @@
 - **0x11**
   - [**SEN0304**(Gravity: URM09-I²C超声波测距传感器)](https://www.dfrobot.com.cn/goods-1905.html)
 - **0x12**
+  - [**SEN0352**(URM13超声波测距传感器)](https://www.dfrobot.com.cn/goods-2965.html)
 - **0x13**
 - **0x14**
 - **0x15**
 - **0x16**
+  - [**TEL0126**(Gravity: WIFI IoT模块)](https://www.dfrobot.com.cn/goods-2988.html)
 - **0x17**
 - **0x18**
   - [**SEN0224**(Gravity: I2C LIS2DH 三轴加速度计)]()
 - **0x19**
+  - [**SEN0460**(Gravity: PM2.5空气质量传感器)](https://www.dfrobot.com.cn/goods-3355.html)
 - **0x1A**
+  - [**SEN0486**(Gravity: 环形二维码扫描识别传感器)](https://www.dfrobot.com.cn/goods-3398.html)
 - **0x1B**
 - **0x1C**
 - **0x1D**
